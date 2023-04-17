@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MotionPlanning",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "spiral_planner::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-spiral_planner-Debug-b477065beb75dc71cecc.json",
+					"name" : "spiral_planner",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/antonioortiz/Proyectos/NanoDegreee/nd013-c5-planning-starter/project/build-starter_files-Qt_6_5_0_for_macOS-Debug",
+		"source" : "/Users/antonioortiz/Proyectos/NanoDegreee/nd013-c5-planning-starter/project/starter_files"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
